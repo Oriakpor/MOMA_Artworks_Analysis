@@ -37,7 +37,13 @@ The The Museum of Modern Art (MoMA) Collection data was obtained from Maven Anal
 4. The type of Artworks most common are:
 - Illustrated Book, Photograph, Design, Drawing, Architecture, etc
 
-
+### Recommendations
+- Since Mid-Century Arts (35.1%) and Modern Arts (34.2%) dominate the collection, museums should prioritize curating exhibitions and educational programs centered on these periods to cater to audience interests. Also, Invest in underrepresented categories like Contemporary Arts (0.8%) to diversify the collection and appeal to younger or contemporary art enthusiasts.
+- With Eugène Atget, Marc Chagall, and Henri Matisse being the most featured artists, museums can organize thematic exhibitions or retrospectives to showcase their contributions.
+- The significant spike in acquisitions during the 1960s could be explored as a historical case study. Analyze what led to this surge and replicate such strategies in modern contexts. Also, the surge in acquisitions from 2000 to 2010 suggests a successful renewal strategy. Museums could revisit and adapt policies from this period to reignite acquisitions post-pandemic.
+- Partner with emerging artists and global art institutions to bring fresh perspectives into the collection.
+- Develop international collaborations to acquire more contemporary and culturally diverse pieces.
+- Lastly, Continuously analyze acquisition data to understand shifts in public interest and adapt collection strategies accordingly.
 
 
 
