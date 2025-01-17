@@ -10,6 +10,7 @@ The objectives are to:
 
 ### Data Source
 The The Museum of Modern Art (MoMA) Collection data was obtained from Maven Analytics:
+- https://mavenanalytics.io/data-playground
 
 ### Tools Employed
 •	Python
